@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-06-11T18:34:09+00:00",
+  "ultimoAggiornamento": "2026-06-10T22:57:52.205000",
+  "fonte": "Regolamento modificabile: i punteggi non erano presenti nel file Excel.",
+  "titolo": "Regolamento Totomondiale",
+  "descrizione": "Modifica questo file per cambiare testi e punteggi. La classifica viene calcolata dal sito usando questi valori.",
+  "punteggi": {
+    "risultatoEsatto": 5,
+    "segnoCorretto": 2,
+    "primaQualificata": 3,
+    "secondaQualificata": 3,
+    "vincitore": 15,
+    "finalista": 8,
+    "capocannoniere": 10,
+    "assistman": 8,
+    "portiere": 5,
+    "giocatore": 8,
+    "difesa": 5,
+    "attacco": 5
+  },
+  "regole": [
+    "Risultato esatto: 5 punti.",
+    "Segno 1/X/2 corretto senza risultato esatto: 2 punto.",
+    "Partite senza risultato reale: 0 punti e stato da giocare.",
+    "Bonus gruppi e bonus finali vengono assegnati quando inserisci i valori reali in data/partite.json.",
+    "Quota iscrizione 10 da SALDARE"
+  ]
+}

@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TotoMondiale</title>
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#home" aria-label="TotoMondiale home">
+        <span class="brand-mark">TM</span>
+        <span>TotoMondiale</span>
+      </a>
+      <nav class="nav-links" aria-label="Navigazione principale">
+        <a href="#home">Home</a>
+        <a href="#classifica">Classifica</a>
+        <a href="#pronostici">Pronostici</a>
+        <a href="#risultati">Risultati</a>
+        <a href="#dettaglio">Dettaglio punti</a>
+        <a href="#regolamento">Regolamento</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home" class="section section-home">
+        <div class="section-inner">
+          <div class="home-heading">
+            <div>
+              <p class="eyebrow">Dashboard</p>
+              <h1>TotoMondiale</h1>
+            </div>
+            <div class="update-pill">
+              Ultimo aggiornamento
+              <strong id="lastUpdated">...</strong>
+            </div>
+          </div>
+
+          <div id="homeStats" class="stats-grid" aria-live="polite"></div>
+          <div id="topThree" class="podium-strip" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="classifica" class="section">
+        <div class="section-inner">
+          <div class="section-title-row">
+            <div>
+              <p class="eyebrow">Classifica generale</p>
+              <h2>Classifica</h2>
+            </div>
+            <label class="search-field">
+              <span>Cerca</span>
+              <input id="participantSearch" type="search" placeholder="Nome partecipante" />
+            </label>
+          </div>
+
+          <div class="table-wrap">
+            <table class="data-table ranking-table">
+              <thead>
+                <tr>
+                  <th>Pos.</th>
+                  <th>Partecipante</th>
+                  <th>Punti</th>
+                  <th>Esatti</th>
+                  <th>Parziali</th>
+                  <th>Sbagliati</th>
+                  <th>Da giocare</th>
+                </tr>
+              </thead>
+              <tbody id="standingRows"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section id="pronostici" class="section section-alt">
+        <div class="section-inner">
+          <div class="section-title-row">
+            <div>
+              <p class="eyebrow">Schede partecipanti</p>
+              <h2>Pronostici</h2>
+            </div>
+            <div class="control-row">
+              <label>
+                <span>Partecipante</span>
+                <select id="pronosticiParticipant"></select>
+              </label>
+              <label>
+                <span>Gruppo</span>
+                <select id="pronosticiGroupFilter"></select>
+              </label>
+            </div>
+          </div>
+
+          <div id="pronosticiGrid" class="prediction-grid"></div>
+        </div>
+      </section>
+
+      <section id="risultati" class="section">
+        <div class="section-inner">
+          <div class="section-title-row">
+            <div>
+              <p class="eyebrow">Partite</p>
+              <h2>Risultati</h2>
+            </div>
+            <label>
+              <span>Gruppo</span>
+              <select id="resultsGroupFilter"></select>
+            </label>
+          </div>
+
+          <div class="table-wrap">
+            <table class="data-table">
+              <thead>
+                <tr>
+                  <th>Gruppo</th>
+                  <th>Partita</th>
+                  <th>Risultato</th>
+                  <th>Stato</th>
+                </tr>
+              </thead>
+              <tbody id="resultsRows"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <section id="dettaglio" class="section section-alt">
+        <div class="section-inner">
+          <div class="section-title-row">
+            <div>
+              <p class="eyebrow">Analisi punti</p>
+              <h2>Dettaglio punti</h2>
+            </div>
+            <label>
+              <span>Partecipante</span>
+              <select id="detailParticipant"></select>
+            </label>
+          </div>
+
+          <div id="detailContent" class="detail-content"></div>
+        </div>
+      </section>
+
+      <section id="regolamento" class="section">
+        <div class="section-inner">
+          <div>
+            <p class="eyebrow">Regole</p>
+            <h2>Regolamento</h2>
+          </div>
+          <div id="rulesContent" class="rules-layout"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>TotoMondiale statico</span>
+      <span>Dati da JSON</span>
+    </footer>
+  </body>
+</html>
