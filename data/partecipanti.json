@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T18:34:09+00:00",
+  "generatedAt": "2026-06-13T07:11:42+00:00",
   "ultimoAggiornamento": "2026-06-10T22:57:52.205000",
   "sourceFile": "TotoMondiale Risposte.xlsx",
   "sheet": "Risposte del modulo 1",
@@ -177,11 +177,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "X",
-          "risultatoEsatto": "1-1"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "2-1"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -222,8 +222,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "2-1"
@@ -896,11 +896,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "X",
-          "risultatoEsatto": "1-1"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "2-0"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -941,8 +941,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "2",
           "risultatoEsatto": "1-1"
@@ -1615,11 +1615,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "2",
-          "risultatoEsatto": "0-1"
+          "trasferta": "Paraguay",
+          "pronostico": "X",
+          "risultatoEsatto": "1-1"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -1660,8 +1660,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "X",
           "risultatoEsatto": "0-0"
@@ -2334,11 +2334,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "X",
-          "risultatoEsatto": "2-2"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "2-0"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -2379,8 +2379,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "2",
           "risultatoEsatto": "0-1"
@@ -3053,11 +3053,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "1",
-          "risultatoEsatto": "1-0"
+          "risultatoEsatto": "3-0"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -3098,8 +3098,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "X",
           "risultatoEsatto": "1-1"
@@ -3772,11 +3772,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "1",
-          "risultatoEsatto": "3-2"
+          "risultatoEsatto": "2-1"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -3817,8 +3817,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "2",
           "risultatoEsatto": "1-2"
@@ -4491,9 +4491,9 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "X",
           "risultatoEsatto": "1-1"
         },
@@ -4536,8 +4536,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "2-1"
@@ -5210,11 +5210,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "1",
-          "risultatoEsatto": "2-1"
+          "risultatoEsatto": "3-1"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -5255,8 +5255,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "2-1"
@@ -5929,9 +5929,9 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "2",
           "risultatoEsatto": "1-3"
         },
@@ -5974,8 +5974,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "1-0"
@@ -6648,11 +6648,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "X",
-          "risultatoEsatto": "1-1"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "2-1"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -6693,8 +6693,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "2-0"
@@ -7367,9 +7367,9 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "X",
           "risultatoEsatto": "1-1"
         },
@@ -7412,8 +7412,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "X",
           "risultatoEsatto": "0-0"
@@ -8086,9 +8086,9 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "2",
           "risultatoEsatto": "1-2"
         },
@@ -8131,8 +8131,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "1-0"
@@ -8805,11 +8805,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "2",
-          "risultatoEsatto": "0-1"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "2-0"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -8850,8 +8850,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "X",
           "risultatoEsatto": "0-0"
@@ -9524,11 +9524,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "2",
-          "risultatoEsatto": "1-2"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "3-1"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -9569,8 +9569,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "X",
           "risultatoEsatto": "1-1"
@@ -10243,9 +10243,9 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "2",
           "risultatoEsatto": "1-2"
         },
@@ -10288,8 +10288,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "2-0"
@@ -10962,11 +10962,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
+          "trasferta": "Paraguay",
           "pronostico": "1",
-          "risultatoEsatto": "2-1"
+          "risultatoEsatto": "1-0"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -11007,8 +11007,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "1",
           "risultatoEsatto": "2-0"
@@ -11681,11 +11681,11 @@
         {
           "partitaId": "gruppo-d-01",
           "gruppo": "D",
-          "partita": "USA vs Turchia",
+          "partita": "USA vs Paraguay",
           "casa": "USA",
-          "trasferta": "Turchia",
-          "pronostico": "2",
-          "risultatoEsatto": "1-3"
+          "trasferta": "Paraguay",
+          "pronostico": "1",
+          "risultatoEsatto": "2-0"
         },
         {
           "partitaId": "gruppo-d-02",
@@ -11726,8 +11726,8 @@
         {
           "partitaId": "gruppo-d-06",
           "gruppo": "D",
-          "partita": "Paraguay vs Australia",
-          "casa": "Paraguay",
+          "partita": "Turchia vs Australia",
+          "casa": "Turchia",
           "trasferta": "Australia",
           "pronostico": "2",
           "risultatoEsatto": "1-3"
