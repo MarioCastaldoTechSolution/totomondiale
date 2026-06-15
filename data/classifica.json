@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:11:42+00:00",
+  "generatedAt": "2026-06-15T20:03:27+00:00",
   "calcolataDa": "convert_excel_to_json.py",
   "classifica": [
     {
@@ -5373,8 +5373,8 @@
             "partitaId": "gruppo-d-01",
             "gruppo": "D",
             "partita": "USA vs Paraguay",
-            "pronostico": "2",
-            "risultatoEsatto": "1-2",
+            "pronostico": "1",
+            "risultatoEsatto": "1-0",
             "risultatoReale": null,
             "stato": "da_giocare",
             "punti": 0

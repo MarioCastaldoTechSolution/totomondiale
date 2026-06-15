@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T07:11:42+00:00",
-  "ultimoAggiornamento": "2026-06-13T09:19:52.205000",
+  "generatedAt": "2026-06-15T20:03:27+00:00",
+  "ultimoAggiornamento": "2026-06-10T22:57:52.205000",
   "sourceFile": "TotoMondiale Risposte.xlsx",
   "sheet": "Risposte del modulo 1",
   "formulaCount": 0,
@@ -17,9 +17,9 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": 20,
-      "golCasa": 2,
-      "golTrasferta": 0,
+      "risultatoReale": null,
+      "golCasa": null,
+      "golTrasferta": null,
       "stato": "giocata",
       "note": ""
     },
@@ -34,10 +34,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": 21,
-      "golCasa": 2,
-      "golTrasferta": 1,
-      "stato": "giocata",
+      "risultatoReale": null,
+      "golCasa": null,
+      "golTrasferta": null,
+      "stato": "da_giocare",
       "note": ""
     },
     {
@@ -119,10 +119,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": 11,
-      "golCasa": 1,
-      "golTrasferta": 1,
-      "stato": "giocata",
+      "risultatoReale": null,
+      "golCasa": null,
+      "golTrasferta": null,
+      "stato": "da_giocare",
       "note": ""
     },
     {
@@ -323,10 +323,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": 41,
-      "golCasa": 4,
-      "golTrasferta": 1,
-      "stato": "giocata",
+      "risultatoReale": null,
+      "golCasa": null,
+      "golTrasferta": null,
+      "stato": "da_giocare",
       "note": ""
     },
     {

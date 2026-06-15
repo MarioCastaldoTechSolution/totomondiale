@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T07:11:42+00:00",
+  "generatedAt": "2026-06-15T20:03:27+00:00",
   "ultimoAggiornamento": "2026-06-10T22:57:52.205000",
   "sourceFile": "TotoMondiale Risposte.xlsx",
   "sheet": "Risposte del modulo 1",
@@ -10246,8 +10246,8 @@
           "partita": "USA vs Paraguay",
           "casa": "USA",
           "trasferta": "Paraguay",
-          "pronostico": "2",
-          "risultatoEsatto": "1-2"
+          "pronostico": "1",
+          "risultatoEsatto": "1-0"
         },
         {
           "partitaId": "gruppo-d-02",
