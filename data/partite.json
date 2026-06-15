@@ -17,9 +17,9 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
+      "risultatoReale": 20,
+      "golCasa": 2,
+      "golTrasferta": 0,
       "stato": "giocata",
       "note": ""
     },
@@ -34,10 +34,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 21,
+      "golCasa": 2,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -119,10 +119,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 11,
+      "golCasa": 1,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -136,10 +136,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 11,
+      "golCasa": 1,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -221,10 +221,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 11,
+      "golCasa": 1,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -238,10 +238,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 01,
+      "golCasa": 0,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -323,10 +323,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 41,
+      "golCasa": 4,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -408,10 +408,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 02,
+      "golCasa": 0,
+      "golTrasferta": 2,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -425,10 +425,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 71,
+      "golCasa": 7,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -442,10 +442,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 10,
+      "golCasa": 1,
+      "golTrasferta": 0,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -527,10 +527,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 22,
+      "golCasa": 2,
+      "golTrasferta": 2,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -544,10 +544,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 51,
+      "golCasa": 5,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -731,10 +731,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 00,
+      "golCasa": 0,
+      "golTrasferta": 0,
+      "stato": "giocata",
       "note": ""
     },
     {
