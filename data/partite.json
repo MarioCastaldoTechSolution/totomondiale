@@ -561,9 +561,9 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": "04",
-      "golCasa": 0,
-      "golTrasferta": 4,
+      "risultatoReale": 40,
+      "golCasa": 4,
+      "golTrasferta": 0,
       "stato": "giocata",
       "note": ""
     },
