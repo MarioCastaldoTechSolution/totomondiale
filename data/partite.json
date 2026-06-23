@@ -867,10 +867,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 30,
+      "golCasa": 3,
+      "golTrasferta": 0,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -884,10 +884,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 32,
+      "golCasa": 3,
+      "golTrasferta": 2,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -969,10 +969,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 12,
+      "golCasa": 1,
+      "golTrasferta": 2,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -986,10 +986,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 20,
+      "golCasa": 2,
+      "golTrasferta": 0,
+      "stato": "giocata",
       "note": ""
     },
     {
