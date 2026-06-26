@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-06-15T20:03:27+00:00",
-  "ultimoAggiornamento": "2026-06-25T8:31:20.205000",
+  "ultimoAggiornamento": "2026-06-26T8:16:20.205000",
   "sourceFile": "TotoMondiale Risposte.xlsx",
   "sheet": "Risposte del modulo 1",
   "formulaCount": 0,
@@ -340,10 +340,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": "00",
+      "golCasa": 0,
+      "golTrasferta": 0,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -391,10 +391,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 32,
+      "golCasa": 3,
+      "golTrasferta": 2,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -493,10 +493,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 21,
+      "golCasa": 2,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -510,10 +510,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": "02",
+      "golCasa": 0,
+      "golTrasferta": 2,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -595,10 +595,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 13,
+      "golCasa": 1,
+      "golTrasferta": 3,
+      "stato": "giocata",
       "note": ""
     },
     {
@@ -612,10 +612,10 @@
       "data": null,
       "ora": null,
       "stadio": null,
-      "risultatoReale": null,
-      "golCasa": null,
-      "golTrasferta": null,
-      "stato": "da_giocare",
+      "risultatoReale": 11,
+      "golCasa": 1,
+      "golTrasferta": 1,
+      "stato": "giocata",
       "note": ""
     },
     {
