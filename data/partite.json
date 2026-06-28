@@ -1233,8 +1233,8 @@
   ],
   "qualificateReali": {
     "A": {
-      "prima": messico,
-      "seconda": sudafrica
+      "prima": "messico",
+      "seconda": "sudafrica"
     },
     "B": {
       "prima": null,
